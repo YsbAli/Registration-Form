@@ -17,9 +17,9 @@ Welcome to My MERN Stack Projects repository! This collection of projects showca
 - **Beginner-Friendly:** Whether you're a beginner or an experienced developer, these projects are designed to cater to all skill levels.
 - **Real-world Applications:** Gain practical experience by working on projects that mimic real-world scenarios and common web development use cases.
 
-## Project List
+## Tech Stacks 
 
-1. **[Frontend](https://github.com/YsbAli/Registration-Form/tree/8095c327e5c8c73bcb06ce8f2493a20f9123a5e9/Frontend):**
+1. **[Frontend](https://github.com/YsbAli/Registration-Form/tree/8095c327e5c8c73bcb06ce8f2493a20f9123a5e9/Frontend) :-**
 
    - **Description:** This is a user-friendly Registration Form application with.
 
@@ -27,7 +27,7 @@ Welcome to My MERN Stack Projects repository! This collection of projects showca
 
    - **Demo:** [https://github.com/YsbAli/MERN-PROJECTS/tree/c16f2e8a41166b0bd66d69cab9367c7e046dccf9/Book%20Store]
 
-2. **[Backend](https://github.com/YsbAli/MERN-PROJECTS/tree/c16f2e8a41166b0bd66d69cab9367c7e046dccf9/Signup-Login):**
+2. **[Backend](https://github.com/YsbAli/MERN-PROJECTS/tree/c16f2e8a41166b0bd66d69cab9367c7e046dccf9/Signup-Login) :-**
    - **Description:** This is a Sign-up - Sign-in Backend application with all the functionality, Validation , JWT Authentication etc.
 
    - **Technologies used:** Node Js, Express JS,  JWT-Authentication, Joi Validation, bcrypt js
