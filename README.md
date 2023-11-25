@@ -40,14 +40,12 @@ Welcome to My MERN Stack Projects repository! This collection of projects showca
 
    ```bash
        https://github.com/YsbAli/Registration-Form.git
-
-       cd MERN-PROJECTS
    ```
 
 2. **Navigate to the Project of Interest:**
 
    ```bash
-   cd Project-Name
+   cd Registration-Form
    ```
 
 3. **Install Dependencies:**
